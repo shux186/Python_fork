@@ -5,7 +5,7 @@
 
 # The '*' pattern is global owners.
 
-# Order is important. The last matching pattern has the most precedence.
+# Order is important. The last matching pattern has the m 方法ost precedence.
 
 /.*  @cclauss @dhruvmanila
 
